@@ -24,11 +24,16 @@ My name is Nolan Cyr (he/him) and I'm from New York City. Currently, I am pursui
 </div>
 <br>
 
-**Contact**  
-- [Email](mailto:nolangcyr@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/nolancyr/)
-
-
+**Cousework**  
+- Data Structures & Algorithms
+- Computer Organization
+- Intermediate Programming
+- Web Site Development
+- Programming I
+- Linear Algebra
+- Discrete Structures
+- Calculus I & II
+- Statistics for Engineering
 
 <!--
 **NolanSmug/NolanSmug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
