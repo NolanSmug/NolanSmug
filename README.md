@@ -1,4 +1,8 @@
-### Hi there 👋
+## About me
+
+My name is Nolan Cyr and I'm from New York City. Currently, I am pursuing a Bachelor of Science degree in Computer Science at The University of Vermont. What I enjoy most about programming is that it allows us to take a difficult or complicated problem and simplify it into a logical and elegant solution. Additionally, I have a strong interest in mathematics and love discovering the connections between math and computer science, and how they complement one another in problem solving.
+
+### Language Experience
 
 <!--
 **NolanSmug/NolanSmug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
