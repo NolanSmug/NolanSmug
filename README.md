@@ -1,8 +1,8 @@
-## About me
+**About me**
 
 My name is Nolan Cyr and I'm from New York City. Currently, I am pursuing a Bachelor of Science degree in Computer Science at The University of Vermont. What I enjoy most about programming is that it allows us to take a difficult or complicated problem and simplify it into a logical and elegant solution. Additionally, I have a strong interest in mathematics and love discovering the connections between math and computer science, and how they complement one another in problem solving.
 
-### Language Experience
+**Language Experience**
 <div style="display: inline-block;">
   <img alt="Java" height=40 src="svgs/java.svg"/>
   <img alt="Python" height=40 src="svgs/python.svg"/>
@@ -13,15 +13,23 @@ My name is Nolan Cyr and I'm from New York City. Currently, I am pursuing a Bach
   <img alt="php" height=40 src="svgs/php.svg"/>
   <img alt="mySQL" height=40 src="svgs/mysql.svg"/>
 </div>
+<br>
 
-### Tool Experience
+**Tool Experience**
+<div style="display: inline-block;">
+  <img alt="Git" height=40 src="svgs/git.svg"/>
+  <img alt="Bitbucket" height=40 src="svgs/bitbucket.svg"/>
+  <img alt="Jira" height=40 src="svgs/jira.svg"/>
+  <img alt="Jenkins" height=40 src="svgs/jenkins.svg"/>
+</div>
+<br>
 
-### Coursework  
+**Coursework**
 - [Web Design Final Project](https://github.com/NolanSmug/cs008-web-design-final)
 - [Programming I Final Project – Wordle & Pangram](https://github.com/NolanSmug/wordle-and-pangram)
 - [Intermediate Programming Final Project – Yahtzee](https://github.com/NolanSmug/yahtzee)
 
-### Personal Projects
+**Personal Projects**
 - [Blackjack](https://github.com/NolanSmug/blackjack)
 - [Kaprekar's Routine](https://github.com/NolanSmug/kaprekars-routine)
 
