@@ -34,8 +34,8 @@ My name is Nolan Cyr (he/him) and I'm from New York City. Currently, I am pursui
 - [Kaprekar's Routine](https://github.com/NolanSmug/kaprekars-routine)
 
 **Contact**  
-[Email](mailto:nolangcyr@gmail.com)
-[LinkedIn](https://www.linkedin.com/in/nolancyr/)
+- [Email](mailto:nolangcyr@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/nolancyr/)
 
 
 
