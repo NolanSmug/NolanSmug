@@ -24,15 +24,6 @@ My name is Nolan Cyr (he/him) and I'm from New York City. Currently, I am pursui
 </div>
 <br>
 
-**Coursework**
-- [Web Design Final Project](https://github.com/NolanSmug/cs008-web-design-final)
-- [Programming I Final Project – Wordle & Pangram](https://github.com/NolanSmug/wordle-and-pangram)
-- [Intermediate Programming Final Project – Yahtzee](https://github.com/NolanSmug/yahtzee)
-
-**Personal Projects**
-- [Blackjack](https://github.com/NolanSmug/blackjack)
-- [Kaprekar's Routine](https://github.com/NolanSmug/kaprekars-routine)
-
 **Contact**  
 - [Email](mailto:nolangcyr@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/nolancyr/)
