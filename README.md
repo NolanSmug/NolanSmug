@@ -18,7 +18,7 @@ My name is Nolan Cyr and I'm from New York City. Currently, I am pursuing a Bach
 **Tool Experience**
 <div style="display: inline-block;">
   <img alt="Git" height=40 src="svgs/git.svg"/>
-  <img alt="Bitbucket" height=40 src="svgs/bitbucket.svg"/>
+  <img alt="Bitbucket" height=40 src="svgs/bitbucket2.svg"/>
   <img alt="Jira" height=40 src="svgs/jira.svg"/>
   <img alt="Jenkins" height=40 src="svgs/jenkins.svg"/>
 </div>
