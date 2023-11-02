@@ -34,6 +34,10 @@ My name is Nolan Cyr (he/him) and I'm from New York City. Currently, I am pursui
 - Discrete Structures
 - Calculus I & II
 
+**How to Reach Me**
+- [Email](mailto:nolangcyr@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/nolancyr/)
+
 <!--
 **NolanSmug/NolanSmug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
