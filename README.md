@@ -22,13 +22,19 @@ My name is Nolan Cyr (he/him) and I'm from New York City. Currently, I am pursui
 <div style="display: inline-block;">
   <img alt="Git" height=40 src="svgs/git.svg"/>
   <img alt="K8s" height=40 src="svgs/k8s.svg"/>
+  <img alt="Rancher" height=40 src="svgs/rancher.svg"/>
+   <img alt="React" height=40 src="svgs/react.svg"/>
   <img alt="Bitbucket" height=40 src="svgs/bitbucket2.svg"/>
   <img alt="Jira" height=40 src="svgs/jira.svg"/>
   <img alt="Jenkins" height=40 src="svgs/jenkins.svg"/>
+  <img alt="Jupyter" height=40 src="svgs/jupyter.svg"/>
 </div>
 <br>
 
 **Relevant Cousework**  
+- Advanced Data Privacy
+- Advanced Programming
+- Computability & Complexity
 - Data Structures & Algorithms
 - Computer Organization
 - Intermediate Programming
