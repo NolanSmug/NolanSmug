@@ -10,6 +10,7 @@ My name is Nolan Cyr (he/him) and I'm from New York City. Currently, I am pursui
   <img alt="Python" height=40 src="svgs/python.svg"/>
   <img alt="C++" height=40 src="svgs/c++.svg"/>
   <img alt="TypeScript" height=40 src="svgs/typescript.svg"/>
+  <img alt="God" height=40 src="svgs/go.svg"/>
   <img alt="HTML5" height=40 src="svgs/html5.svg"/>
   <img alt="CSS" height=40 src="svgs/css.svg"/>
   <img alt="php" height=40 src="svgs/php.svg"/>
@@ -23,6 +24,7 @@ My name is Nolan Cyr (he/him) and I'm from New York City. Currently, I am pursui
   <img alt="Bitbucket" height=40 src="svgs/bitbucket2.svg"/>
   <img alt="Jira" height=40 src="svgs/jira.svg"/>
   <img alt="Jenkins" height=40 src="svgs/jenkins.svg"/>
+  <img alt="K8s" height=40 src="svgs/k8s.svg"/>
 </div>
 <br>
 
