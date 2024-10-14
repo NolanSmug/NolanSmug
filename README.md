@@ -10,9 +10,9 @@ My name is Nolan Cyr (he/him) and I'm from New York City. Currently, I am pursui
   <img alt="Python" height=40 src="svgs/python.svg"/>
   <img alt="C++" height=40 src="svgs/c++.svg"/>
   <img alt="TypeScript" height=40 src="svgs/typescript.svg"/>
-  <img alt="God" height=40 src="svgs/go.svg"/>
   <img alt="HTML5" height=40 src="svgs/html5.svg"/>
   <img alt="CSS" height=40 src="svgs/css.svg"/>
+  <img alt="Go" height=40 src="svgs/go.svg"/>
   <img alt="php" height=40 src="svgs/php.svg"/>
   <img alt="mySQL" height=40 src="svgs/mysql.svg"/>
 </div>
@@ -21,10 +21,10 @@ My name is Nolan Cyr (he/him) and I'm from New York City. Currently, I am pursui
 **Tool Experience**
 <div style="display: inline-block;">
   <img alt="Git" height=40 src="svgs/git.svg"/>
+  <img alt="K8s" height=40 src="svgs/k8s.svg"/>
   <img alt="Bitbucket" height=40 src="svgs/bitbucket2.svg"/>
   <img alt="Jira" height=40 src="svgs/jira.svg"/>
   <img alt="Jenkins" height=40 src="svgs/jenkins.svg"/>
-  <img alt="K8s" height=40 src="svgs/k8s.svg"/>
 </div>
 <br>
 
