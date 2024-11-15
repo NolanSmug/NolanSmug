@@ -44,6 +44,7 @@ My name is Nolan Cyr (he/him) and I'm from New York City. I am currently pursuin
 - Linear Algebra
 - Discrete Structures
 - Calculus I, II, III
+- Advanced Differential Equations
 
 **How to Reach Me**
 - [Email](mailto:nolangcyr@gmail.com)
