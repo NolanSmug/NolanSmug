@@ -42,7 +42,7 @@ My name is Nolan Cyr (he/him) and I'm from New York City. Currently, I am pursui
 - Intro to Programming
 - Linear Algebra
 - Discrete Structures
-- Calculus I & II
+- Calculus I, II, III
 
 **How to Reach Me**
 - [Email](mailto:nolangcyr@gmail.com)
