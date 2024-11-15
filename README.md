@@ -32,9 +32,10 @@ My name is Nolan Cyr (he/him) and I'm from New York City. I am currently pursuin
 <br>
 
 **Relevant Cousework**  
-- Advanced Data Privacy
+- Advanced Data Privacy (Differential Pricacy)
 - Advanced Programming
 - Computability & Complexity
+- Data Science I
 - Data Structures & Algorithms
 - Computer Organization
 - Intermediate Programming
