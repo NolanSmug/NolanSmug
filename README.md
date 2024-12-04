@@ -36,7 +36,7 @@ My name is Nolan Cyr (he/him) and I'm from New York City. I am currently pursuin
 ### Personal Projects I'm Working On
 > (that you should check out!)
 - [NYC Subway Journey Game React UI](https://github.com/NolanSmug/nyc-subway-journey-react)
-- [NYC Subwat Journey Game C++ (Text-based)](https://github.com/NolanSmug/NYC-Subway-Journey-Game)
+- [NYC Subway Journey Game C++ (Text-based)](https://github.com/NolanSmug/NYC-Subway-Journey-Game)
 - [NYC Subway Live LED Sign w Raspberry Pi](https://youtu.be/wnGUfbuMtx4?si=uv3GvnZEM2EWD3Il)
 - [Table Tennis Serve Selector iOS App](https://github.com/NolanSmug/Table-Tennis-Serve-Selector)
 
