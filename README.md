@@ -35,7 +35,7 @@ My name is Nolan Cyr (he/him) and I'm from New York City. I am currently pursuin
   
 **Personal Projects** (that you should check out!)
 - [NYC Subway Journey Game React UI](https://github.com/NolanSmug/nyc-subway-journey-react)
-- [NYC Subwat Journey Game C++ Text-based](https://github.com/NolanSmug/NYC%20Subway%20Journey%20Game)
+- [NYC Subwat Journey Game C++ Text-based](https://github.com/NolanSmug/NYC-Subway-Journey-Game)
 
 **Relevant Cousework**  
 - Advanced Data Privacy (Differential Pricacy)
