@@ -4,7 +4,7 @@
 
 `Last Updated: 2024`
 
-My name is Nolan Cyr (he/him) and I'm from New York City. I am currently pursuing a Bachelor of Science degree in Computer Science at the University of Vermont. What I enjoy most about programming is that it allows me to be as creative as I want. It's amazing how much you can make on a project with consistent small (or big) additions every day—even when working alone. I also have a strong interest in mathematics and love discovering new connections between math and computer science, especially how they complement each other in problem solving.
+My name is Nolan Cyr (he/him) and I'm from New York City. I am currently pursuing a Bachelor of Science degree in Computer Science at the University of Vermont. What I enjoy most about programming is that it allows me to be as creative as I want. I've found it amazing how much progress I can make on a project with consistent small (or big) additions every day—even when working alone. I also have a strong interest in mathematics and love discovering new connections between math and computer science, especially how they complement each other in problem solving.
 
 **Language Experience**
 <div style="display: inline-block;">
