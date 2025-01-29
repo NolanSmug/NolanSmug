@@ -40,6 +40,7 @@ My name is Nolan Cyr (he/him) and I'm from New York City. I am currently pursuin
 - [NYC Subway Live LED Sign w Raspberry Pi](https://youtu.be/wnGUfbuMtx4?si=uv3GvnZEM2EWD3Il)
 - [Table Tennis Serve Selector iOS App](https://github.com/NolanSmug/Table-Tennis-Serve-Selector)
 
+<!--
 ### Relevant Coursework
 - Advanced Data Privacy (Differential Pricacy)
 - Advanced Programming
@@ -54,6 +55,7 @@ My name is Nolan Cyr (he/him) and I'm from New York City. I am currently pursuin
 - Discrete Structures
 - Calculus I, II, III
 - Advanced Differential Equations
+-->
 
 **How to Reach Me**
 - [Email](mailto:nolangcyr@gmail.com)
