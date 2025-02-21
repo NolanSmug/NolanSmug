@@ -23,6 +23,7 @@ My name is Nolan Cyr (he/him) and I'm from New York City. I am currently pursuin
 **Tool Experience**
 <div style="display: inline-block;">
   <img alt="Git" height=40 src="svgs/git.svg"/>
+  <img alt="Docker" height=40 src="svgs/docker.svg"/>
   <img alt="K8s" height=40 src="svgs/k8s.svg"/>
   <img alt="Rancher" height=40 src="svgs/rancher.svg"/>
    <img alt="React" height=40 src="svgs/react.svg"/>
