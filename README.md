@@ -1,12 +1,12 @@
 ## Nolan Cyr
 
-### About Me
+### About me
 
 `Last Updated: 2024`
 
 My name is Nolan Cyr (he/him) and I'm from New York City. I am currently pursuing a Bachelor of Science degree in Computer Science at the University of Vermont. What I enjoy most about programming is that it allows me to be as creative as I want. I've found it amazing how much progress I can make on a project with consistent small (or big) additions every day—even when working alone. I also have a strong interest in mathematics and love discovering new connections between math and computer science, especially how they complement each other in problem solving.
 
-**Language Experience**
+**Language experience**
 <div style="display: inline-block;">
   <img alt="Java" height=40 src="svgs/java.svg"/>
   <img alt="Python" height=40 src="svgs/python.svg"/>
@@ -20,7 +20,7 @@ My name is Nolan Cyr (he/him) and I'm from New York City. I am currently pursuin
 </div>
 <br>
 
-**Tool Experience**
+**Tool experience**
 <div style="display: inline-block;">
   <img alt="Git" height=40 src="svgs/git.svg"/>
   <img alt="Docker" height=40 src="svgs/docker.svg"/>
@@ -34,7 +34,7 @@ My name is Nolan Cyr (he/him) and I'm from New York City. I am currently pursuin
 </div>
 <br>
   
-### Personal Projects I'm Working On
+### Personal projects I'm working on
 > (that you should check out!)
 - [NYC Subway Journey Game React UI](https://github.com/NolanSmug/nyc-subway-journey-react)
 - [NYC Subway Journey Game C++ (Text-based)](https://github.com/NolanSmug/nyc-subway-journey-cpp)
@@ -42,7 +42,7 @@ My name is Nolan Cyr (he/him) and I'm from New York City. I am currently pursuin
 - [Table Tennis Serve Selector iOS App](https://github.com/NolanSmug/Table-Tennis-Serve-Selector)
 
 <!--
-### Relevant Coursework
+### Relevant coursework
 - Advanced Data Privacy (Differential Pricacy)
 - Advanced Programming
 - Computability & Complexity
@@ -58,7 +58,7 @@ My name is Nolan Cyr (he/him) and I'm from New York City. I am currently pursuin
 - Advanced Differential Equations
 -->
 
-**How to Reach Me**
+**How to reach me**
 - [Email](mailto:nolangcyr@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/nolancyr/)
 
