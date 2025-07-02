@@ -4,33 +4,40 @@
 
 `Last Updated: 2024`
 
-My name is Nolan Cyr (he/him) and I'm from New York City. I am currently pursuing a Bachelor of Science degree in Computer Science at the University of Vermont. What I enjoy most about programming is that it allows me to be as creative as I want. I've found it amazing how much progress I can make on a project with consistent small (or big) additions every day—even when working alone. I also have a strong interest in mathematics and love discovering new connections between math and computer science, especially how they complement each other in problem solving.
+My name is Nolan Cyr (he/him) and I'm from New York City. I am currently pursuing a Bachelor of Science degree in Computer Science at the University of Vermont. What I enjoy most about programming is that it allows me to be as creative as I want. I've found it amazing how much progress I can make on a project with consistent small (or big) additions every day, even when working alone. I also have a strong interest in mathematics and love discovering new connections between math and computer science, especially how they complement each other in problem solving.
 
 **Language experience**
-<div style="display: inline-block;">
-  <img alt="Java" height=40 src="svgs/java.svg"/>
-  <img alt="Python" height=40 src="svgs/python.svg"/>
-  <img alt="C++" height=40 src="svgs/c++.svg"/>
-  <img alt="TypeScript" height=40 src="svgs/typescript.svg"/>
-  <img alt="HTML5" height=40 src="svgs/html5.svg"/>
-  <img alt="CSS" height=40 src="svgs/css.svg"/>
-  <img alt="Go" height=40 src="svgs/go.svg"/>
-  <img alt="php" height=40 src="svgs/php.svg"/>
-  <img alt="mySQL" height=40 src="svgs/mysql.svg"/>
+<div style="display: flex; flex-wrap: wrap; width: 200px;">
+  <img alt="Java" height=40 width=40 src="svgs/java.svg" />
+  <img alt="Python" height=40 width=40 src="svgs/python.svg"/>
+  <img alt="C++" height=40 width=40 src="svgs/c++.svg"/>
+  <img alt="TypeScript" height=40 width=40 src="svgs/typescript.svg"/>
+  <img alt="HTML5" height=40 width=40 src="svgs/html5.svg"/>
+  <img alt="CSS" height=40 width=40 src="svgs/css.svg" />
+  <img alt="Go" height=40 width=40 src="svgs/go.svg" />
+  <img alt="php" height=40 width=40 src="svgs/php.svg" />
+  <img alt="bash" height=40 width=40 src="svgs/bash.svg" />
+  <img alt="mySQL" height=40 width=40 src="svgs/mysql.svg"/>
+  <img alt="risc-v" height=40 width=40 src="svgs/riscv.svg" />
+  <img alt="x86" height=40 width=40 src="svgs/x86.svg" />
+  <img alt="CUDA" height=40 width=40 src="svgs/cuda.svg" />
 </div>
 <br>
 
 **Tool experience**
-<div style="display: inline-block;">
-  <img alt="Git" height=40 src="svgs/git.svg"/>
-  <img alt="Docker" height=40 src="svgs/docker.svg"/>
-  <img alt="K8s" height=40 src="svgs/k8s.svg"/>
-  <img alt="Rancher" height=40 src="svgs/rancher.svg"/>
-   <img alt="React" height=40 src="svgs/react.svg"/>
-  <img alt="Bitbucket" height=40 src="svgs/bitbucket2.svg"/>
-  <img alt="Jira" height=40 src="svgs/jira.svg"/>
-  <img alt="Jenkins" height=40 src="svgs/jenkins.svg"/>
-  <img alt="Jupyter" height=40 src="svgs/jupyter.svg"/>
+<div style="display: inline-block; flex-wrap: wrap; width: 220px;">
+  <img alt="Git" height=40 width=40 src="svgs/git.svg"/>
+  <img alt="Docker" height=40 width=40 src="svgs/docker.svg"/>
+  <img alt="K8s" height=40 width=40 src="svgs/k8s.svg"/>
+  <img alt="Rancher" height=40 width=40 src="svgs/rancher.svg"/>
+  <img alt="React" height=40 width=40 src="svgs/react.svg"/>
+  <img alt="Jira" height=40 width=40 src="svgs/jira.svg"/>
+  <img alt="Bitbucket" height=40 width=40 src="svgs/bitbucket2.svg"/>
+  <img alt="Jenkins" height=40 width=40 src="svgs/jenkins.svg"/>
+  <img alt="RabbitMQ" height=40 width=40 src="svgs/rabbitmq.svg" />
+  <img alt="Jupyter" height=40 width=40 src="svgs/jupyter.svg"/>
+  <img alt="Flask" height=40 width=40 src="svgs/flask.svg" />
+  <img alt="Scikit" height=40 width=40 src="svgs/scikit.svg" />
 </div>
 <br>
   
